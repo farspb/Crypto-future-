@@ -1,0 +1,5 @@
+{
+  "name": "Crypto Futures Analyzer V2",
+  "description": "A high-precision crypto analysis platform for BTC, SOL, TRX, and SUI, featuring real-time price tracking, deep AI-driven technical analysis for 1-hour futures trading, and Google Search grounded news aggregation.",
+  "requestFramePermissions": []
+}
